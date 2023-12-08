@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import '../style.scss'
 import Carousel from '../../../components/Carousel/Carousel'
-import ContentWrapper from '../../../components/contentWrapper/ContentWrapper'
+import ContentWrapper from '../../../components/ContentWrapper/ContentWrapper'
 import SwitchTabs from '../../../components/switchTabs/SwitchTabs'
 import useFEtch from '../../../hooks/useFetch'
 
